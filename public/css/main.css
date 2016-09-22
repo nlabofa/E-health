@@ -1,0 +1,33 @@
+#sec-nav {
+  padding-top: 40px;
+  text-align: center; }
+  #sec-nav li {
+    display: inline-block;
+    padding-right: 40px;
+    font-weight: bold;
+    font-size: 15px; }
+  #sec-nav a {
+    text-decoration: none;
+    color: black; }
+    #sec-nav a:hover {
+      color: #05A9E8; 
+      text-decoration: underline;}
+
+
+
+
+  #footer-fluid ul {
+    padding-top: 15px; }
+  #footer-fluid li {
+    display: inline-block;
+    padding-right: 20px; }
+  #footer-fluid a {
+    text-decoration: none; }
+  #footer-fluid p a {
+    color: #777; }
+#footer-fluid  a:hover {
+    color:#05A9E8;text-decoration: underline; }
+
+
+footer {
+  padding-top: 120px; }
